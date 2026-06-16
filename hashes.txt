@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos que marcan
+
+This log tracks the cryptographic history and versioning for the song **Besos que marcan** (besos-que-marcan).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T03:15:45.916362 | `v1` | `3ff7c0d9583cd4a39c4392c43960bdcb5c7e62f985c5e46f2fc6d166f9eb4349` | `4a8e4b5e32ebb71b805e0fd6ef1579d5e06846840f9eb6c25a9dcdc2784baa17` | `2026-06-17_besos-que-marcan-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
