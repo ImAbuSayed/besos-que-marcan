@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ese beso me marca y me deja sin aire
+> Una mirada tuya y que se pare el baile
+> Vámonos de aquí, baby, no digas nada
+> Son esos besos que marcan de madrugada
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
